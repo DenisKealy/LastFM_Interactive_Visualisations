@@ -1,7 +1,9 @@
 # LastFM_Interactive_Visualisations
-### Submission for Assignment 2 - CA675.
+
+### Submission for Assignment 2 - CA675 Cloud Technologies.
 
 We have obtained a dataset of 850,000 songs which were retireived from the LastFM API (not by us). Data came in following json format:
+
 ```
 {
 	"artist": "Adelitas Way",
@@ -29,7 +31,7 @@ We have used Spark GraphFrames to build a graph of songs using similarity rating
 
 ### Visualisation
 
- `2D Visualisation` contatins source files for [2D Visualisaion](https://bl.ocks.org/DenisKealy/ff0ce2375003dcf9be72c3c91346aff7).
+`2D Visualisation` contatins source files for [2D Visualisaion](https://bl.ocks.org/DenisKealy/ff0ce2375003dcf9be72c3c91346aff7).
  - Live source files (powers the visualisation) => [Gist source](https://gist.github.com//DenisKealy/ff0ce2375003dcf9be72c3c91346aff7).
 
 
